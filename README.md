@@ -1,7 +1,7 @@
-# COMP30024-AI-Projects
+# COMP30024-AI-Project
 
-# Project B
-Monte-Carlo implementation of an AI bot to play fictional RoPaSci game, using rudimentary Machine Learning. Scored 83%.
+# Project B (83%)
+Monte-Carlo implementation of an AI bot to play fictional RoPaSci game, using rudimentary Machine Learning.
 
 * [Algorithm Choice](#Algorithm-Choice)
 * [Implementation](#Implementation)
