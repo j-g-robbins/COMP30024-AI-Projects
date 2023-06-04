@@ -1,4 +1,4 @@
-# COMP30024-AI-Project
+# RoPaSci-360 Monte-Carlo AI
 
 Monte-Carlo implementation of an AI bot to play fictional RoPaSci game, using a Monte-Carlo Machine Learning Algorithm.
 
